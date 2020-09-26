@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 树博士天赋课
 
-You can use the [editor on GitHub](https://github.com/treector/treector.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+树博士天赋课是一套专为2~6岁儿童设计的天赋发掘和培养课程体系。通过大数据分析结合孩子上课时的行为状态和表现，洞察孩子的潜在天赋。家长可以根据孩子具备的天赋定向培养孩子。
+只有掌握了孩子的天赋，才能让孩子走得更快，走得更远。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 树博士系列课程
 
-### Markdown
+天天和蒙蒙机缘巧合在迷失的森林里，偶遇了树博士的实验室。树博士具有无穷的知识和智慧，决定帮助天天和蒙蒙发掘自身天赋，茁壮成长。天天和蒙蒙带着树博士赠与的树精灵，通过实验室穿越到一个另一个世界，学习不同的知识，体验不同的生活，展开了一场又一场有趣的冒险……
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 北京卡姆利多科技有限公司
 
-```markdown
-Syntax highlighted code block
+北京卡姆利多科技有限公司，是“树博士天赋课”的研发公司。公司致力于以知识图谱技术赋能幼儿教育行业，帮助孩子发现自身天赋，通过图谱的方式更有效得让孩子学习领悟知识。
+公司成员拥有丰富得互联网行业从业经验，专业得知识图谱领域技术知识，以及多次成功的创业经历。
+我们期待，用互联网技术赋能幼儿教育行业，用知识图谱技术强化线上教育能力。
 
-# Header 1
-## Header 2
-### Header 3
+### 联系我们
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/treector/treector.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+APP下载：各大应用商店搜索“树博士天赋课”
+微信公众号：树博士天赋课
+联系邮箱：bd@treector.com
